@@ -1,0 +1,3 @@
+[submodule "nexus-registry"]
+	path = nexus-registry
+	url = git@github.com:jicecold/nexus-registry.git
